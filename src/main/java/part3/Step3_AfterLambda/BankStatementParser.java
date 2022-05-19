@@ -1,0 +1,9 @@
+package part3.Step3_AfterLambda;
+
+import java.util.List;
+
+
+public interface BankStatementParser {
+    BankTransaction parseFrom(String line);
+    List<BankTransaction> parseLinesFrom(List<String> lines);
+}
