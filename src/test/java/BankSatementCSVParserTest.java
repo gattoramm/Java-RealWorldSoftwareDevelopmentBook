@@ -1,8 +1,8 @@
 import org.junit.Assert;
 import org.junit.Test;
-import part2.ex4_AfterCoupling.BankStatementCSVParser;
-import part2.ex4_AfterCoupling.BankStatementParser;
-import part2.ex4_AfterCoupling.BankTransaction;
+import part2.Step4_AfterCoupling.BankStatementCSVParser;
+import part2.Step4_AfterCoupling.BankStatementParser;
+import part2.Step4_AfterCoupling.BankTransaction;
 
 import java.time.LocalDate;
 import java.time.Month;

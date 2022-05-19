@@ -1,4 +1,4 @@
-package part2.ex3_AfterCohesion;
+package part2.Step3_AfterCohesion;
 
 
 import java.io.IOException;

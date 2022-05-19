@@ -1,4 +1,4 @@
-package part2.ex2_AfterSRP;
+package part2.Step2_AfterSRP;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

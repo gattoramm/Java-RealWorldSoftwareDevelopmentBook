@@ -1,4 +1,4 @@
-package part2.ex1_Before;
+package part2.Step1_Before;
 
 import java.io.IOException;
 import java.nio.file.Files;
