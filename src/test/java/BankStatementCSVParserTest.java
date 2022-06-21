@@ -8,7 +8,7 @@ import java.time.LocalDate;
 import java.time.Month;
 
 
-public class BankSatementCSVParserTest {
+public class BankStatementCSVParserTest {
     private final BankStatementParser statementParser = new BankStatementCSVParser();
 
     @Test
