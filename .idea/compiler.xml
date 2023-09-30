@@ -9,8 +9,5 @@
         <module name="Java-RealWorldSoftwareDevelopmentBook" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Java-RealWorldSoftwareDevelopmentBook" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
